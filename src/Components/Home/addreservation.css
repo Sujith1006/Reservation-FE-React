@@ -1,0 +1,12 @@
+.main-reser {
+  text-align: center;
+}
+.main-reser .input-boxes {
+  padding: 20px;
+}
+.input-boxes div{
+  width: 30vw;  
+}
+.input-boxes form{
+  padding: 20px;
+}

@@ -1,0 +1,33 @@
+.single-reservation{
+  padding: 25px;
+  box-shadow: 5px 5px #888888;
+  width: 50vw;
+  display: flex;
+  justify-content: space-between;
+}
+.main-panel{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  /* height: 80vh; */
+}
+h1{
+  text-align: center;
+}
+p{
+  font-weight: bold;
+}
+.nodata{
+  padding: 10vh;
+  display: flex;
+  justify-self: center;
+  align-self: center;
+  flex-direction: column;
+}
+.btn{
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
